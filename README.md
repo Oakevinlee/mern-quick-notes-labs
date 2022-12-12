@@ -1,3 +1,3 @@
 # MERN-Stack Infrastructure
 
-Clone this repo to provide the starter code for a future MERN-Stack project
+## Use this as a template for future MERN projects
